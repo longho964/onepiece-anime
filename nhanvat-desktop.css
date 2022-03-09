@@ -1,0 +1,18 @@
+
+        @media only screen and (min-width: 992px) {                        
+            .first-div {
+                width: 1200px;
+                margin: 0 auto;
+            }
+            .grid-character{
+                display: grid;
+                grid-template-columns: auto auto;
+            }
+            .grid-character-img{
+                width: 300px;
+                
+            }
+            .style-character-img{
+                max-width: 100%;
+            }
+        }

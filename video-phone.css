@@ -1,0 +1,70 @@
+*{
+    box-sizing: border-box;
+    }
+    .first-div{
+    padding: 10px;
+    max-width: 100%;                             
+    }
+    .nav-item {
+        margin-right: 50px;
+    }
+    .logo-img{
+        width: 40px;
+        margin-right: 50px;
+    }
+    .logo-size{
+        width: 100px;
+        height: 60px;
+    }
+    .danhsachvideo{
+        display: grid;
+        grid-template-columns: 40% 60%;
+        grid-column: 10px;
+    }
+    .design-a{
+        color: black;
+        list-style-type: none;
+        text-decoration: none;
+    }
+    .design-div{
+        padding-top: 10px;
+    }
+    .movie{
+        margin-top: 30px;
+    }
+    .button-like{
+        width: 100px;
+        height: 4   0px;
+        background-color: rgb(198, 235, 240);
+        border-radius: 10px;
+
+    }
+    .button-like-in{
+        border: 1px solid;
+        background-color: white;
+        border-radius: 5px;
+        display: flex;
+    }
+    .video-share{
+        background-color: rgb(162, 212, 139);
+        color: black;
+        border-radius: 5px;
+        font-size: 14px;
+        height: 30px;
+        line-height: 30px;
+        padding: 0 8px 0 28px;
+        display: inline-block;
+        text-align: center;
+        margin: 20px;
+        
+    }
+    .video-like{                   
+        border-radius: 5px;
+        font-size: 14px;
+        height: 30px;
+        line-height: 30px;
+        padding: 0 8px 0 28px;
+        display: inline-block;
+        text-align: center;
+        margin: 20px;                    
+    }

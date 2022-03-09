@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+}
+.first-div{
+    margin: 50px 0;
+    padding: 10px;
+    max-width: 100%;
+}
+.background-onepiece{
+    text-align: center;
+    background-color: rgb(190, 190, 109);        
+}
+.font-h1{
+    font-size: 500%;
+}
+.sanji{
+    margin: 20px 0;
+    padding:20px;
+    background-color: rgb(182, 179, 12);
+            
+}
+.zoro{
+    margin: 20px 0;
+    padding: 20px;
+    background-color: rgb(95, 161, 101);
+
+}
+.luffy{
+    margin: 20px 0;
+    background-color: rgb(245, 125, 125);
+    padding:20px;
+}
+
+.nav-item {
+    margin-right: 50px;
+}
+.logo-img{
+    width: 40px;
+    margin-right: 50px;
+}
+.grid-character-img {
+        width: 300px;
+    }
+.style-character-img {
+        max-width: 100%;
+    }

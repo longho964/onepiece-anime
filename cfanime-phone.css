@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+}
+.first-div{
+   padding: 10px;
+   max-width: 100%;   
+}
+li{
+    list-style-type: none;            
+}
+img.pitcher-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 50%;
+}
+.review-onepiece{
+    display: inline-block;
+    border: 1px silver solid;
+    background-color: rgb(245, 244, 244);
+    max-width: 100%;
+    padding: 20px;
+    margin-bottom: 20px;              
+}
+.banner{
+    max-width: 100%;   
+}
+                    
+.nav-item {
+    margin-right: 50px;
+}
+.member div p{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;           
+}
+figcaption {
+   
+    color: rgb(114, 74, 74);
+    font-style: italic;
+    padding: 2px;
+    text-align: center;
+}
+.grid-h1{
+    text-align: center;
+    background-color: whitesmoke;
+    margin: auto 0;
+}
+
+.footer-1{
+    
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+    margin-top: 30px;
+    display:grid;
+    grid-template-columns: 40% 30% 30%;
+    
+}
+a{
+    list-style-type: none;
+    text-decoration: none;
+    color:black;
+  
+}
+.width-piture{
+    width:100%;
+    max-height: 300px;
+}
+.jicolor{
+    display: inline-block;
+    font-size: xx-large;
+    opacity: 0.6;
+    background-color: black;
+    padding: 0 5px;
+}
+.slineder {
+   padding: 30px 0;
+   }
+.logo-img{
+    width: 40px;
+    margin-right: 50px;
+}
+
+.card-size{
+    height: 100%;
+}
+.card-link{
+    display: flex;
+    justify-content: center;
+}
+
+.p-center{
+    text-align: center;
+}
